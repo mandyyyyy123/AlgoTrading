@@ -1,2 +1,4 @@
 # AlgoTrading
-https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+# This is a pet project.
+
+A Kalman Filter based mean reverting strategy is applied to multiple co-integrated assets
